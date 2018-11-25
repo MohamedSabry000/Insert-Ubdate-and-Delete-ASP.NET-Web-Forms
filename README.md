@@ -26,10 +26,11 @@ that table is consist of four attribute:
 ![SQL Server Database](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture4.PNG)
 * come to server Explorer at visual studio and right click on "Data Connections" and choose "Add Connection"
 ![Add Connection](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture5.PNG)
-* Change the data source to "Microsoft SQL Server" and Press "OK"
+* Change the data source to "Microsoft SQL Server" and Press "OK"                                 
 ![Microsoft SQL Server](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture6.PNG)
-* write ` . ` on Server Name Area then select your Database Name then Press "OK"
 ![Server Name Area](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture7.PNG)
+* write ` . ` on Server Name Area then select your Database Name then Press "OK"                            
+![Select Server Name](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture8.PNG)
 * come to Server Explorer Tool and copy the Database Name
 ![Database Name](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture8.PNG)
 * open "Index.aspx.cs" file and replace each statement called "EmployeeConnectionString" with The Database Name you copied
