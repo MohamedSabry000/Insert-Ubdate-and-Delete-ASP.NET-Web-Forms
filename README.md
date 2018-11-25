@@ -30,8 +30,8 @@ that table is consist of four attribute:
 ![Microsoft SQL Server](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture6.PNG)
 ![Server Name Area](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture7.PNG)
 * write ` . ` on Server Name Area then select your Database Name then Press "OK"                            
-![Select Server Name](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture8.PNG)
-* come to Server Explorer Tool and copy the Database Name
+![Select Server Name](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture9.PNG)
+* come to Server Explorer Tool and copy the Database Name                                        
 ![Database Name](https://raw.githubusercontent.com/Mohamedfadah/Insert-Ubdate-and-Delete-ASP.NET-Web-Forms/master/Screenshots/Capture8.PNG)
 * open "Index.aspx.cs" file and replace each statement called "EmployeeConnectionString" with The Database Name you copied
 <br>
