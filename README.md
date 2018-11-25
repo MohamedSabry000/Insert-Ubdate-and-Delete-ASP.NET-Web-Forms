@@ -25,5 +25,5 @@ We create Database named ` Employee ` has Table named ` Employee `, that table i
 
 * open "Index.aspx.cs" file and replace each statement called "EmployeeConnectionString" with The Database Name you copied
 <br>
-* ** Note: Don't Run The Project Before Linking it to Database ** *
+<b> Note: Don't Run The Project Before Linking it to Database </b>
 
