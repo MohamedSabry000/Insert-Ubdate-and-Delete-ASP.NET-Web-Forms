@@ -1,5 +1,5 @@
 # Insert-Ubdate-and-Delete-ASP.NET-Web-Forms
-## How To Insert, Ubdate and Derete to/from SQL Server Database Across ASP.NET Web Forms
+## How To Insert, Ubdate and Delete to/from SQL Server Database Across ASP.NET Web Forms
 
 ### How Can We Open The Project:
 * Download The website or Fork it, then extract where ever you want
